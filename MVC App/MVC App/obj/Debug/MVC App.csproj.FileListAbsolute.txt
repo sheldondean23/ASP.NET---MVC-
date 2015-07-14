@@ -1,0 +1,112 @@
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\MVC App.dll.config
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\MVC App.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\MVC App.pdb
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Antlr3.Runtime.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\EntityFramework.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\EntityFramework.SqlServer.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Newtonsoft.Json.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Owin.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Helpers.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Mvc.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Optimization.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Razor.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.Deployment.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.Razor.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\WebGrease.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Helpers.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Mvc.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Optimization.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.Razor.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.Deployment.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\System.Web.WebPages.Razor.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Antlr3.Runtime.pdb
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Newtonsoft.Json.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\EntityFramework.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\EntityFramework.SqlServer.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\obj\Debug\MVC App.csprojResolveAssemblyReference.cache
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\obj\Debug\MVC App.dll
+c:\users\sheldon\documents\visual studio 2013\Projects\MVC App\MVC App\obj\Debug\MVC App.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\MVC App.dll.config
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\MVC App.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\MVC App.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Antlr3.Runtime.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\EntityFramework.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\EntityFramework.SqlServer.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Newtonsoft.Json.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Owin.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Helpers.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Mvc.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Optimization.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Razor.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\WebGrease.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Helpers.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Mvc.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Optimization.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.Razor.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Antlr3.Runtime.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Newtonsoft.Json.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\EntityFramework.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\EntityFramework.SqlServer.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\obj\Debug\MVC App.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\obj\Debug\MVC App.dll
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\obj\Debug\MVC App.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\obj\Debug\MVC_App.Migrations.InitialCreate.resources
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\MVC App\MVC App\obj\Debug\MVC App.csproj.GenerateResource.Cache
