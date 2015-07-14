@@ -1,0 +1,52 @@
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csproj.GenerateResource.Cache
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+D:\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+D:\C_Sharp_SBS\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csproj.GenerateResource.Cache
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+C:\Users\Sheldon\Desktop\Microsoft Press\Visual CSharp Step By Step\Chapter 2\Windows 7\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csproj.GenerateResource.Cache
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe.config
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.exe
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\bin\Debug\PrimitiveDataTypes.pdb
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.baml
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\MainWindow.g.cs
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\App.g.cs
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes_MarkupCompile.cache
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.g.resources
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.Properties.Resources.resources
+C:\Users\Sheldon\Documents\Visual Studio 2013\Projects\mvc-tutorial\ASP.NET---MVC-\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.csproj.GenerateResource.Cache
